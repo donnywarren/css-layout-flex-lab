@@ -10,7 +10,7 @@
 ### Description 
 
 
-Super cool startup, Relaxr, wants you to build their landing page. The designers have handed you a basic [design file with instructions](../design-specs) and the JPEG below to help you bring the blog to life. Submit the finished version for homework.
+Super cool startup, Relaxr, wants you to build their landing page. The designers have handed you a basic [design file with instructions](../design-specs.md) and the JPEG below to help you bring the blog to life. Submit the finished version for homework.
 
 ![Relaxr Blog](images/relaxr_blog.jpg)
 
